@@ -1,0 +1,13 @@
+
+
+  .main-panel {
+    height: 300px;
+    width: 50%;
+    overflow-y: scroll;
+    /* Center the div both horizontally and vertically */
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
